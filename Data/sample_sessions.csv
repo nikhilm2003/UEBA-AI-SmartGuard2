@@ -1,0 +1,6 @@
+user_id,login_time,location,device,transaction_amount
+u001,2025-09-28 10:00:00,Delhi,Windows,5000
+u001,2025-09-28 10:05:00,Delhi,Windows,2000
+u002,2025-09-28 22:00:00,Mumbai,Android,10000
+u002,2025-09-29 03:00:00,Russia,Android,500000
+u003,2025-09-28 09:00:00,Delhi,iPhone,1500
